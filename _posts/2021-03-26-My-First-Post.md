@@ -50,8 +50,3 @@ Parameter에 대한 더 많은 정보를 원하면 아래의 사이트가 도움
 
 수정을 했다면 Directory\shell\git_shell로 들어간다. command로 들어간 후 (기본값)의 데이터를 위와 동일하게 바꾼다.
 이제 Context Menu에서도 Windows Terminal을 이용하여 Git Bash를 이용할 수 있게 되었다.
----
-layout: page
-title: Windows Terminal에서 Git Bash 사용하기
-subtitle : Git Bash in Windows Terminal
----
